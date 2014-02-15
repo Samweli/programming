@@ -6,7 +6,7 @@ int main(){
  printf("Enter your name");
  scanf("%s",name);
  
- printf("Wow your name is so nice %s",name);
+ printf("Wow your name is so good %s",name);
 
 return 0;
 
